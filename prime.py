@@ -41,7 +41,7 @@ def compPrime2(n):
 start = time.time()
 # centprime(1000)
 # compPrime(1000)
-print(compPrime2(1000))
+compPrime2(1000)
 base_time = time.time() - start
 
 print("Base time:\t", base_time)

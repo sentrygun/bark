@@ -103,7 +103,7 @@ def sumFirstOdds(list):
 ## came so naturally and simply that i just went straight for that and got the results i wanted easily.
 
 
-print(sumFirstOdds([1 , 3 , 5 , 7 , 10 , 1111111 , 12]))
+# print(sumFirstOdds([1 , 3 , 5 , 7 , 10 , 1111111 , 12]))
 
 
 
